@@ -14,7 +14,7 @@ Personalized hashtag -> "#crimebuzz" Crowdsourcing to understand unnoticed crime
 
 Twitter API: to get tweets with deatils such as location, time, picture(if any) with our hashtag
 
-This would help create awareness in people when they visit areas that are crime-prone. We also added open data for SF county to give user confidence in areas where residents are not exposed to this awesome app for social good
+This would help create awareness in people when they visit areas that are crime-prone. We also added open data for SF county.
 
 Future Work: Alerting user based whenever he/she enters where crime rate is high Tap screen feature to call 911 in two hard knocks on phone
 
